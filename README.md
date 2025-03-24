@@ -56,7 +56,7 @@ Request Body:
 
 Open Postman.
 Set the request method to POST.
-Enter the API URL: http://localhost:5000/get_company_data
+Enter the API URL: http://localhost:7650/get_company_data
 Go to Body > raw and select JSON format.
 Paste the request body: {"company": "Tesla"}
 Click Send.
